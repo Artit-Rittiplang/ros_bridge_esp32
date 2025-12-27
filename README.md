@@ -1,6 +1,6 @@
 # 1. ros_bridge_esp32
 
-After connecting the robot circuit as shown below (2. ESP32 Robot Car Circuit) and uploading `Twomotor_Twoservo_LED_v1.zip`, the ESP32 robot car can be controlled using serial commands as follows:
+After connecting the robot circuit as shown below (2. ESP32 Robot Car Circuit) and uploading `ESP32_Car_command.zip`, the ESP32 robot car can be controlled using serial commands as follows:
 
 ### 1) Motor movement
 
