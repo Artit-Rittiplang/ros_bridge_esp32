@@ -21,9 +21,9 @@ After connecting the robot circuit as shown below (2. ESP32 Robot Car Circuit) a
     
   5) Servo motors
      
-    "s 0 45" : rotate servo 0 to 45 degrees
+    "s 0 45" : servo0 rotate 45 degrees
     
-    "s 1 125" : rotate servo 1 to 125 degrees
+    "s 1 125" : servo1 rotate 125 degrees
 
 For more information, please refer to the attached document “ESP32 Robot Car by Serial Port and WiFi.pdf”.
 Some code examples in the document are different from the uploaded code because the document is intended for basic student learning, so it is simplified and does not include advanced features.
