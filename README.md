@@ -41,5 +41,6 @@ Disclaimer: Some code examples in the PDF document are different from the upload
 
 
 # 2. ESP32 robot car circuit
-Two motor encoders 12V 77RPM, Two servo motor sg90
-<img width="987" height="477" alt="image" src="https://github.com/user-attachments/assets/ac31b5d1-e061-4b08-bec1-d670e63bd69e" />
+This circuit supports the following connections: (1) two 12 V motor encoders (77 RPM or similar), (2) three SG90 servo motors (adjustable), and (3) a relay switch.
+<img width="987" height="477" alt="image" src="https://github.com/user-attachments/assets/786e5e69-7833-465c-8f5f-1296a1485157" />
+
