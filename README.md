@@ -2,7 +2,7 @@
 
 After connecting the robot circuit as shown below (2. ESP32 Robot Car Circuit) and uploading `ros_bridge_esp32.zip`, the ESP32 robot car can be controlled using serial commands.
 
-**Note:** For basic stundying, you can see the attached document **“ESP32 Robot Car by Serial Port and WiFi.pdf”**. in this document, the connection is very simple for student learning. It is different from "ros_bridge_esp32.zip" that is latest version.
+**Note:** For basic stundying, you can see the attached document **“week4-5 esp32 robot car.pdf”**. in this document, the connection is very simple for student learning. It is different from "ros_bridge_esp32.zip" that is latest version.
 
 
 ### 1) Motor movement
